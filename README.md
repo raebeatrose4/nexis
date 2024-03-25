@@ -39,3 +39,14 @@
    yarn build:production
    ```
 
+------------------------------------------------------------
+
+Details about the Verified Smart Contracts used in Nexis Swap:
+
+| Contract Name | Contract Address | Explorer URL |
+|----------|----------|----------|
+| UniswapV2Factory | 0xB7DCc36875fFCA129e2934cf2221566d42d45Be0 | [explorer url](https://evm-testnet.nexscan.io/address/0xB7DCc36875fFCA129e2934cf2221566d42d45Be0) |
+| UniswapInterfaceMulticall | 0x7EdBdB96aaBd5F07A499F248DdE70948bDBec16a | [explorer url](https://evm-testnet.nexscan.io/address/0x7EdBdB96aaBd5F07A499F248DdE70948bDBec16a) |
+| WETH9 | 0x1F829609216366FE5BB6b98e68441eD6ebBEA1A3 | [explorer url](https://evm-testnet.nexscan.io/address/0x1F829609216366FE5BB6b98e68441eD6ebBEA1A3) |
+| UniswapV2Router02 | 0x293983734f2Cc3A5b3b576c806Bcb1489a59092D | [explorer url](https://evm-testnet.nexscan.io/address/0x293983734f2Cc3A5b3b576c806Bcb1489a59092D) |
+
