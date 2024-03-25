@@ -74,7 +74,7 @@ How to deploy and verify the above mentioned Smart Contracts (using [Remix IDE](
 - Once deployed, verify the contract by using the source code of the contract on Nexis Testnet
 
 ### UniswapV2Router02 Contract
-- - Upload the Uniswap [v2-periphery contracts](https://github.com/Uniswap/v2-periphery/tree/master/contracts) folder in your remix workspace
+- Upload the Uniswap [v2-periphery contracts](https://github.com/Uniswap/v2-periphery/tree/master/contracts) folder in your remix workspace
 - Add the INIT_CODE [here](https://github.com/Uniswap/v2-periphery/blob/0335e8f7e1bd1e8d8329fd300aea2ef2f36dd19f/contracts/libraries/UniswapV2Library.sol#L24) that you got when deploying the UniswapV2Factory contract
 - Compile the `UniswapV2Router02.sol` contract with Solidity `0.6.6` version and enable optimization and set its value to **999999** in Advanced Configurations
 - Deploy the contract 
